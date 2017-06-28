@@ -26,7 +26,14 @@ And call function to change the language:
 private void ChangeLanguage()
 ```
 
-### Copyright 2015 Nummer
+### New Version 
+New version continue at ZeroBoard team and compatibility with Creators update.
+for more info join in Zeroboard forum.
+
+[Zeroboard](https://zeroboard.org)
+
+
+### Copyright 2017 Nummer
 
 [Twitter @nummerok](https://twitter.com/nummerok)
 
